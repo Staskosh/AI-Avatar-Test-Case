@@ -1,0 +1,2 @@
+assemblyai==0.31.0
+python-dotenv==0.20.0
